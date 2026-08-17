@@ -1,4 +1,5 @@
 🍕 Pizza Sales Analysis Dashboard – Excel
+
 📊 Project Overview
 
 This project presents an interactive Pizza Sales Analysis Dashboard created using Microsoft Excel.
@@ -81,12 +82,15 @@ Weekend evenings are among the busiest ordering periods.
 The Classic pizza category is the strongest category.
 Large pizzas contribute the highest sales among the available sizes.
 Product-level analysis helps identify both high-performing and underperforming pizzas.
+
 📂 Project Files
 📊 Pizza Sales Dashboard – Excel dashboard and analysis
 🖼️ Dashboard Preview – Dashboard image
+
 🎯 Project Objective
 
 The objective of this project is to analyze pizza sales data and create an interactive Excel dashboard that helps identify sales trends, customer ordering patterns, product performance, and opportunities for improving business performance.
 
 Dashboard Tool: Microsoft Excel
+
 Project Type: Sales Analytics / Data Visualization
