@@ -1,22 +1,21 @@
 🍕 Pizza Sales Analysis Dashboard – Excel
 
+<img width="1007" height="679" alt="Pizza sales dashboard" src="https://github.com/user-attachments/assets/86384b4a-19bd-4e5f-b041-dc16c09b0af9" />
+
+
 📊 Project Overview
 
 This project presents an interactive Pizza Sales Analysis Dashboard created using Microsoft Excel.
 
 The dashboard analyzes pizza sales performance across revenue, orders, pizzas sold, average order value, ordering patterns, pizza categories, pizza sizes, and individual pizza products.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
 Microsoft Excel
 Pivot Tables
 Data Analysis
 Data Visualization
 KPI Analysis
 Sales Trend Analysis
-📷 Dashboard Preview
-
-
-
 
 📌 Key Performance Indicators
 KPI	Value
