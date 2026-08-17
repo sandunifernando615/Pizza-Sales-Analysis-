@@ -82,9 +82,6 @@ The Classic pizza category is the strongest category.
 Large pizzas contribute the highest sales among the available sizes.
 Product-level analysis helps identify both high-performing and underperforming pizzas.
 
-📂 Project Files
-📊 Pizza Sales Dashboard – Excel dashboard and analysis
-🖼️ Dashboard Preview – Dashboard image
 
 🎯 Project Objective
 
